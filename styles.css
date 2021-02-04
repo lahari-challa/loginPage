@@ -190,3 +190,8 @@ a.socialIcon:hover,
     margin: 10px 20px 10px 20px;
 }
 }
+@media (min-width: 1500px) {
+    .logo2 {
+        margin: 20px 25px 10px 220px;
+    }
+}
